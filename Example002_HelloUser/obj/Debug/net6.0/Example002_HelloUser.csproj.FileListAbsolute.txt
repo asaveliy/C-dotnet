@@ -1,0 +1,15 @@
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/obj/Debug/net6.0/refint/Example002_HelloUser.dll
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
