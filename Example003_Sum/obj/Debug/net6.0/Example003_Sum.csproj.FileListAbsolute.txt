@@ -1,0 +1,15 @@
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.deps.json
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.runtimeconfig.json
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.dll
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/bin/Debug/net6.0/Example003_Sum.pdb
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.AssemblyReference.cache
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfoInputs.cache
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfo.cs
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.CoreCompileInputs.cache
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.dll
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/obj/Debug/net6.0/refint/Example003_Sum.dll
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.pdb
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/obj/Debug/net6.0/Example003_Sum.genruntimeconfig.cache
+/Users/anna/Documents/Scrum/2023/VS Code/3_dotnet_run/Examples/Example003_Sum/obj/Debug/net6.0/ref/Example003_Sum.dll
